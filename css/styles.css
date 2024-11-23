@@ -1,0 +1,23 @@
+body{
+    background-image: url(../assets/img/gato.jpg);
+    background-size:cover;
+    background-attachment: fixed;
+    box-sizing: border-box;
+    margin: 0;
+    text-align: center;
+
+    
+}
+
+h1{
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: #f4e033;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h2{
+    
+    background-color: rgb(255, 165,0,0.4);
+    color: rgb(255, 255, 255, 0.4);
+
+}
